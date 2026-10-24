@@ -1,0 +1,7 @@
+╭─ RIDE THE BUS · advisor ──────────────────────────────╮
+│  Card 1 is shown with no guess                        │
+│                                                       │
+│  Type it when it appears, and the advice for the      │
+│  next guess follows.                                  │
+╰───────────────────────────────────────────────────────╯
+built-in hi-lo-5 · fresh 52 · ace high · ties lose/lose

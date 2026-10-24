@@ -1,0 +1,11 @@
+╭─ RIDE THE BUS · advisor ──────────────────────────────╮
+│  Round over: all four stages survived.                │
+│                                                       │
+│   ╭────╮ ╭────╮ ╭────╮ ╭────╮                         │
+│   │ 2  │ │ 9  │ │ 5  │ │ 7  │                         │
+│   │ ♥  │ │ ♠  │ │ ♦  │ │ ♣  │                         │
+│   ╰────╯ ╰────╯ ╰────╯ ╰────╯                         │
+│                                                       │
+│  Paid 15.86x per 1 staked                             │
+╰───────────────────────────────────────────────────────╯
+rules.toml · game test · 2026-10-23 · fresh 52 · ace high · ties lose/lose

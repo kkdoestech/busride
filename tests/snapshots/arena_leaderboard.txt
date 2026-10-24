@@ -1,0 +1,32 @@
+RIDE THE BUS · arena   demo
+Ride the Bus · 200 duplicate deals · seed 7 · payouts 1.80 2.30 3.20 12.00
+Perfect play gets back 96.3 of every 100 bet, on average. Closest to it here: 
+stop:2, giving up 11.2.
+
+            Gives  Best      Odds                   vs
+#  Agent       up  move     error  Return      optimal
+──────────────────────────────────────────────────────
+1  optimal    0.0  100%     exact   107.5            —
+2  stop:2    11.2   55%     exact    96.6  -10.9 ±10.0
+3  greedy    23.5   34%     exact   108.0   +0.5 ±44.7
+4  hunch     23.5   34%  14.6 pts   108.0   +0.5 ±44.7
+5  random    42.0   33%         —    56.6  -50.9 ±25.6
+
+  Gives up: chips lost to imperfect play per 100 bet, on average. Luck doesn't  
+  count: 0 is perfect.                                                          
+  Best move: how often it made the best move, counting only choices that        
+  mattered.                                                                     
+  Odds error: how far the win chances it stated were from the exact ones.       
+  Return: what it actually got back per 100 bet on these deals, luck included.  
+  vs optimal: the gap to perfect play on the same deals, give or take (95%).    
+
+Habits (counting only moves worse by more than 2%):
+  stop:2: kept going 56 times when cashing out was better, and cashed out 14    
+  times when playing on was better.                                             
+  greedy: kept going 109 times when cashing out was better.                     
+  hunch: kept going 109 times when cashing out was better.                      
+  hunch needed a second try 84 times.                                           
+  random: kept going 47 times when cashing out was better, and cashed out 18    
+  times when playing on was better.                                             
+
+built-in ride-the-bus · fresh 52 · ace high · ties lose/lose

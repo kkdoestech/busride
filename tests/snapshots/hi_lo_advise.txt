@@ -1,0 +1,17 @@
+╭─ RIDE THE BUS · advisor ──────────────────────────────╮
+│  Stage 1 of 5 · higher or lower                       │
+│                                                       │
+│   ╭────╮                                              │
+│   │ 7  │                                              │
+│   │ ♥  │                                              │
+│   ╰────╯                                              │
+│                                                       │
+│  HIGHER       █████████████░░░░░░░░░░░  54.9%  28/51  │
+│  LOWER        █████████░░░░░░░░░░░░░░░  39.2%  20/51  │
+│  TIE (loses)  █░░░░░░░░░░░░░░░░░░░░░░░   5.9%   3/51  │
+│                                                       │
+│  Best guess   HIGHER                                  │
+│  Your stake is in: make this guess. It is worth 0.74  │
+│  per 1 staked.                                        │
+╰───────────────────────────────────────────────────────╯
+built-in hi-lo-5 · fresh 52 · ace high · ties lose/lose

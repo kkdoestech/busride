@@ -1,0 +1,43 @@
+RIDE THE BUS · policy   Ride the Bus
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  PLAYER EDGE +5.4%                                                           │
+│  Play by this sheet and you get back about 105 of every 100 you bet. No      │
+│  strategy does better.                                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Stage 1 · red or black
+  Either colour, 50.0%. There is no cash-out before it, so the only choice is   
+  whether to play: perfect play returns 1.05 per 1.                             
+
+Stage 2 · higher or lower   cash out pays 1.90x
+  first card    2    3    4    5    6    7    8    9   10    J    Q    K    A
+  play          H    H    H    $    $    $    $    $    $    $    L    L    L
+  survive     94%  86%  78%  71%  63%  55%  47%  55%  63%  71%  78%  86%  94%
+  continue   2.61 2.34 2.11 1.89 1.70 1.50 1.30 1.50 1.70 1.89 2.11 2.34 2.61
+
+Stage 3 · inside or outside   cash out pays 2.50x
+  1st\2nd    2   3   4   5   6   7   8   9  10   J   Q   K   A
+    2        ·   O   O   O   $   $   $   $   $   $   I   I   I
+    3        O   ·   O   O   O   $   $   $   $   $   $   I   I
+    4        O   O   ·   O   O   O   $   $   $   $   $   $   I
+    5        O   O   O   ·   O   O   O   $   $   $   $   $   $
+    6        $   O   O   O   ·   O   O   O   $   $   $   $   $
+    7        $   $   O   O   O   ·   O   O   O   $   $   $   $
+    8        $   $   $   O   O   O   ·   O   O   O   $   $   $
+    9        $   $   $   $   O   O   O   ·   O   O   O   $   $
+   10        $   $   $   $   $   O   O   O   ·   O   O   O   $
+    J        $   $   $   $   $   $   O   O   O   ·   O   O   O
+    Q        I   $   $   $   $   $   $   O   O   O   ·   O   O
+    K        I   I   $   $   $   $   $   $   O   O   O   ·   O
+    A        I   I   I   $   $   $   $   $   $   O   O   O   ·
+
+Stage 4 · suit   cash out pays 3.80x
+  Suits seen     Best guess          Wins  Continue  Cash out  Play             
+  ─────────────────────────────────────────────────────────────────────         
+  3 · 0 · 0 · 0  a suit seen least  26.5%      3.71      3.80  CASH OUT         
+  2 · 1 · 0 · 0  a suit seen least  26.5%      3.71      3.80  CASH OUT         
+  1 · 1 · 1 · 0  a suit seen least  26.5%      3.71      3.80  CASH OUT         
+
+  H higher  L lower  I inside  O outside  $ cash out  · can't happen            
+  green going on beats cashing by >2%  amber within 2%  red going on loses      
+
+rules.toml · game test · 2026-10-23 · fresh 52 · ace high · ties lose/lose

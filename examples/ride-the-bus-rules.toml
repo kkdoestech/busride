@@ -1,0 +1,31 @@
+# busride game rules. Set these to match the game you play (docs/SPEC.md, section 5),
+# then run `busride odds`.
+
+[game]
+name = "Ride the Bus"
+game_version = "example"
+captured_on = "2026-10-24"
+description = "Red or black, higher or lower, inside or outside, then the suit."
+# Stake limits; 0 = not recorded.
+min_stake = 0
+max_stake = 0
+# What a draw that runs out of time does: unknown | lose | cash_out | random_guess
+timeout = "unknown"
+
+[deck]
+# fresh_52 (new deck every round) | with_replacement (cards can repeat) | shoe
+model = "fresh_52"
+# Only used by "shoe".
+decks = 1
+# high | low | either (either = whichever value helps you)
+ace = "high"
+
+[ties]
+# lose | push | win. A push ends the round and pays your current cash-out value.
+higher_lower = "lose"
+# The same, for a card equal to either end of the inside/outside range.
+range_edge = "lose"
+
+[payout]
+# Total payout per 1 staked, stake included, if you cash out after surviving each stage.
+return_after_stage = [1.8, 2.3, 3.2, 12.0]

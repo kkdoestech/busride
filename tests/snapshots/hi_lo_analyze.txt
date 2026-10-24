@@ -1,0 +1,25 @@
+RIDE THE BUS · analysis   Hi-Lo 5
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  HOUSE EDGE 3.8%                                                             │
+│  Even playing perfectly, you get back about 96 of every 100 you bet. Stage   │
+│  1 (higher or lower) takes the most: each 1 you let ride through it comes    │
+│  back as 0.87.                                                               │
+╰──────────────────────────────────────────────────────────────────────────────╯
+                                                   Break    Step    Plan
+Stage                Win  Survive   Fair  Offered   even    edge    edge
+────────────────────────────────────────────────────────────────────────
+1 Higher or lower  72.4%    72.4%  1.38x    1.20x  1.25x  +13.1%  +13.1%
+2 Higher or lower  69.6%    50.4%  1.99x    1.60x  1.66x   +7.2%  +19.4%
+3 Higher or lower  69.5%    35.0%  2.86x    2.20x  2.29x   +4.4%  +23.0%
+4 Higher or lower  69.6%    24.4%  4.11x    3.00x  3.12x   +5.1%  +26.9%
+5 Higher or lower  69.6%    16.9%  5.90x    4.20x  4.37x   +2.6%  +28.8%
+Win: chance at that stage, given you got there. Fair = 1/survive, the break-even
+for always playing to that stage. Break even: your ladder scaled so perfect play
+returns exactly 1. Step edge: what letting the pot ride through that stage 
+costs. Plan edge: always playing to that stage, then cashing out.
+
+If cards could repeat: perfect play would return 0.92, and surviving all five 
+would happen 15.35% of the time (your rules: 16.95%).
+No logged payouts to check against the ladder yet (`busride log` records them).
+
+built-in hi-lo-5 · fresh 52 · ace high · ties lose/lose

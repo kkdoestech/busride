@@ -1,0 +1,14 @@
+╭─ RIDE THE BUS · rules ───────────────────────────────────────────────╮
+│  Game               Ride the Bus                                     │
+│  Version            test                                             │
+│  Captured on        2026-10-23                                       │
+│  Deck               fresh_52                                         │
+│  Ace                high                                             │
+│  Tie, higher/lower  lose                                             │
+│  Tie, range edge    lose                                             │
+│  Ladder             1.90x · 2.50x · 3.80x · 14.00x                   │
+│  Stakes             not recorded                                     │
+│  Timeout            unknown                                          │
+╰──────────────────────────────────────────────────────────────────────╯
+From rules.toml.
+! An example warning.

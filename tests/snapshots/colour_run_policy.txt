@@ -1,0 +1,38 @@
+RIDE THE BUS · policy   Colour Run 5
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  HOUSE EDGE 2.5%                                                             │
+│  Play by this sheet and you get back about 98 of every 100 you bet. No       │
+│  strategy does better.                                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Stage 1 · red or black
+  Either colour, 50.0%. There is no cash-out before it, so the only choice is   
+  whether to play: perfect play returns 0.98 per 1.                             
+
+Stage 2 · red or black   cash out pays 1.90x
+  Colours seen  Best guess             Wins  Continue  Cash out  Play           
+  ───────────────────────────────────────────────────────────────────────       
+  1 and 0       the colour seen less  51.0%      1.95      1.90  CONTINUE       
+
+Stage 3 · red or black   cash out pays 3.80x
+  Colours seen  Best guess             Wins  Continue  Cash out  Play           
+  ───────────────────────────────────────────────────────────────────────       
+  2 and 0       the colour seen less  52.0%      3.98      3.80  CONTINUE       
+  1 and 1       either colour         50.0%      3.83      3.80  CONTINUE       
+
+Stage 4 · red or black   cash out pays 7.50x
+  Colours seen  Best guess             Wins  Continue  Cash out  Play           
+  ───────────────────────────────────────────────────────────────────────       
+  3 and 0       the colour seen less  53.1%      8.01      7.50  CONTINUE       
+  2 and 1       the colour seen less  51.0%      7.65      7.50  CONTINUE       
+
+Stage 5 · red or black   cash out pays 15.00x
+  Colours seen  Best guess             Wins  Continue  Cash out  Play           
+  ───────────────────────────────────────────────────────────────────────       
+  4 and 0       the colour seen less  54.2%     15.71     15.00  CONTINUE       
+  3 and 1       the colour seen less  52.1%     15.10     15.00  CONTINUE       
+  2 and 2       either colour         50.0%     14.50     15.00  CASH OUT       
+
+  H higher  L lower  I inside  O outside  $ cash out  · can't happen            
+  green going on beats cashing by >2%  amber within 2%  red going on loses      
+
+built-in colour-run-5 · fresh 52 · ace high · ties lose/lose

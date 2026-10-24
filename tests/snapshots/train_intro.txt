@@ -1,0 +1,5 @@
+The agent starts knowing nothing about Ride the Bus. It plays 300,000 practice 
+rounds, sees only what each move paid, and keeps a running average of how good 
+each move is in each situation (Q-learning learns what each move is worth if it 
+played perfectly from then on). Every few thousand rounds busride works out 
+exactly what its current moves are worth, so the curve has no luck in it.

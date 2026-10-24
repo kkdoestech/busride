@@ -1,0 +1,17 @@
+RIDE THE BUS · arena replay   demo
+greedy's 10 costliest decisions, of 444.
+
+Deal  Stage  Cards seen  Move     Win chance  Best move  Gave up  Next card
+───────────────────────────────────────────────────────────────────────────
+  10      3  5♦ Q♠       inside          48%  cash out      76.4  2♣ ✗     
+  17      3  7♦ K♣       outside         48%  cash out      76.4  A♦ ✓     
+  35      3  A♥ 8♥       outside         48%  cash out      76.4  6♦ ✓     
+  54      3  4♦ 10♦      outside         48%  cash out      76.4  8♦ ✗     
+  60      3  9♦ 2♣       inside          48%  cash out      76.4  6♥ ✓     
+  63      3  3♦ 9♣       outside         48%  cash out      76.4  9♠ ✗     
+  65      3  K♥ 7♥       outside         48%  cash out      76.4  K♣ ✗     
+  68      3  3♦ 9♠       outside         48%  cash out      76.4  K♠ ✓     
+  69      3  J♦ 5♦       outside         48%  cash out      76.4  5♠ ✗     
+  71      3  K♥ 6♣       inside          48%  cash out      76.4  J♦ ✓     
+
+  See one in full: busride arena replay demo --deal 10                          

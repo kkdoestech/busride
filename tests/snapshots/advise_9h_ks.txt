@@ -1,0 +1,16 @@
+╭─ RIDE THE BUS · advisor ──────────────────────────────╮
+│  Stage 3 of 4 · inside or outside                     │
+│                                                       │
+│   ╭────╮ ╭────╮                                       │
+│   │ 9  │ │ K  │                                       │
+│   │ ♥  │ │ ♠  │                                       │
+│   ╰────╯ ╰────╯                                       │
+│                                                       │
+│  OUTSIDE      ███████████████░░░░░░░░░  64.0%  32/50  │
+│  INSIDE       ██████░░░░░░░░░░░░░░░░░░  24.0%  12/50  │
+│  TIE (loses)  ███░░░░░░░░░░░░░░░░░░░░░  12.0%   6/50  │
+│                                                       │
+│  Best guess   OUTSIDE  (if you play on)               │
+│  Cash out 2.76  vs  continue 2.69   →   CASH OUT      │
+╰───────────────────────────────────────────────────────╯
+rules.toml · game test · 2026-10-23 · fresh 52 · ace high · ties lose/lose

@@ -1,0 +1,5 @@
+╭─ RIDE THE BUS · settings ────────────────────────────────────────────╮
+│  Your game  Ride the Bus (ride-the-bus)                              │
+│  Coach      review                                                   │
+╰──────────────────────────────────────────────────────────────────────╯
+Settings file: C:/Users/you/AppData/Local/busride/config.toml

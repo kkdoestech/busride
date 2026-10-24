@@ -1,0 +1,26 @@
+RIDE THE BUS · policy   In-Between
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  HOUSE EDGE 2.5%                                                             │
+│  Play by this sheet and you get back about 98 of every 100 you bet. No       │
+│  strategy does better.                                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Stage 1 · inside or outside   your stake is in: no cash-out yet
+  1st\2nd    2   3   4   5   6   7   8   9  10   J   Q   K   A
+    2        O   O   O   O   O   O   O   I   I   I   I   I   I
+    3        O   O   O   O   O   O   O   O   I   I   I   I   I
+    4        O   O   O   O   O   O   O   O   O   I   I   I   I
+    5        O   O   O   O   O   O   O   O   O   O   I   I   I
+    6        O   O   O   O   O   O   O   O   O   O   O   I   I
+    7        O   O   O   O   O   O   O   O   O   O   O   O   I
+    8        O   O   O   O   O   O   O   O   O   O   O   O   O
+    9        I   O   O   O   O   O   O   O   O   O   O   O   O
+   10        I   I   O   O   O   O   O   O   O   O   O   O   O
+    J        I   I   I   O   O   O   O   O   O   O   O   O   O
+    Q        I   I   I   I   O   O   O   O   O   O   O   O   O
+    K        I   I   I   I   I   O   O   O   O   O   O   O   O
+    A        I   I   I   I   I   I   O   O   O   O   O   O   O
+
+  H higher  L lower  I inside  O outside  $ cash out  · can't happen            
+  green going on beats cashing by >2%  amber within 2%  red going on loses      
+
+built-in in-between · fresh 52 · ace high · ties lose/lose

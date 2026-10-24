@@ -1,0 +1,19 @@
+RIDE THE BUS · games   4 built in, 1 yours
+                                                                    Perfect play
+   Name          What you do                                             returns
+────────────────────────────────────────────────────────────────────────────────
+→  ride-the-bus  Red or black, higher or lower, inside or outside,         96.3%
+                 then the suit.                                                 
+   hi-lo-5       One card is shown, then five higher-or-lower              96.2%
+                 calls, each against the card before.                           
+   in-between    Two cards are shown; bet whether the third lands          97.5%
+                 between them or outside. A simplified Acey-Deucey              
+                 with one fixed payout.                                         
+   colour-run-5  Five red-or-black calls in a row. Remembering the         97.5%
+                 colours already seen helps.                                    
+   your games                                                                   
+   two-colours   Two red-or-black calls                                    97.5%
+
+  → marks your current game. Switch with `busride games use NAME`, see a game's 
+  rules with `busride games NAME`, or make your own with `busride games new`. To
+  try one without switching: `busride odds --game hi-lo-5`.                     

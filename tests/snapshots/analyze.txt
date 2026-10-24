@@ -1,0 +1,25 @@
+RIDE THE BUS · analysis   Ride the Bus
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  PLAYER EDGE +5.4%                                                           │
+│  Playing perfectly, you get back about 105 of every 100 you bet. Stage 1     │
+│  (red or black) takes the most: each 1 you let ride through it comes back    │
+│  as 0.95.                                                                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+                                                       Break   Step    Plan
+Stage                  Win  Survive    Fair  Offered    even   edge    edge
+───────────────────────────────────────────────────────────────────────────
+1 Red or black       50.0%    50.0%   2.00x    1.90x   1.80x  +5.0%   +5.0%
+2 Higher or lower    72.4%    36.2%   2.76x    2.50x   2.37x  +4.7%   +9.5%
+3 Inside or outside  65.7%    23.8%   4.21x    3.80x   3.60x  +0.2%   +9.7%
+4 Suit               26.5%     6.3%  15.86x   14.00x  13.28x  +2.3%  +11.7%
+Win: chance at that stage, given you got there. Fair = 1/survive, the break-even
+for always playing to that stage. Break even: your ladder scaled so perfect play
+returns exactly 1. Step edge: what letting the pot ride through that stage 
+costs. Plan edge: always playing to that stage, then cashing out.
+
+If cards could repeat: perfect play would return 1.03, and surviving all four 
+would happen 5.60% of the time (your rules: 6.31%). `busride verify` tests which
+one the game uses.
+No logged payouts to check against the ladder yet (`busride log` records them).
+
+rules.toml · game test · 2026-10-23 · fresh 52 · ace high · ties lose/lose

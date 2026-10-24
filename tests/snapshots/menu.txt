@@ -1,0 +1,20 @@
+╭─ busride · Ride the Bus, solved ─────────────────────────────╮
+│  Your game: Ride the Bus · payouts 1.80 2.30 3.20 12.00      │
+│  Even playing perfectly, you get back about 96 of every 100  │
+│  you bet.                                                    │
+│                                                              │
+│   1  Tutorial (start here!)                                  │
+│   2  Play a few rounds, with a coach                         │
+│   3  I'm playing now: what should I do?                      │
+│   4  Show the cheat sheet                                    │
+│   5  How fair is this game?                                  │
+│   6  Arena: watch bots play, graded against perfect play     │
+│   7  Train a learning AI and watch it improve                │
+│   8  Choose a game                                           │
+│   9  Settings: payouts, chips, coach, AI model               │
+│  10  Pretend rounds: double-check the maths                  │
+│  11  Record real rounds                                      │
+│  12  Is the dealing fair?                                    │
+│  13  Check my setup                                          │
+│   q  Quit                                                    │
+╰──────────────────────────────────────────────────────────────╯

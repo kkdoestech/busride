@@ -1,0 +1,8 @@
+This run calls AI models that charge for every decision. Before it starts:
+Agent                   Deals to play         Cost  Based on                    
+────────────────────────────────────────────────────────────────────────────────
+claude:claude-opus-5-5             20  about $0.84  a rough guess (no calls yet)
+openai:gpt-x                       20      unknown  its price isn't in the table
+ollama:qwen3:4b                    20         free  it runs on your computer    
+Prices: built in, checked 2026-10-06. See or edit them: busride arena prices
+It stops once the calls cost $2.00 (--max-cost).

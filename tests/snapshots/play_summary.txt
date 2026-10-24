@@ -1,0 +1,11 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  SESSION: UP 3.00 CHIPS                                                      │
+│  2 rounds. You made the best move 0 of 2 times (0%), and 1 more was within   │
+│  2%.                                                                         │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Chips         1,000.00 → 1,003.00 (+3.00)                             
+Given up      10.21 chips against perfect play, on average            
+Your play     worth -10.95 chips on average; luck added 13.95         
+Biggest slip  round 1, stage 2: LOWER instead of CASH OUT, 10.17 chips
+
+built-in ride-the-bus · fresh 52 · ace high · ties lose/lose

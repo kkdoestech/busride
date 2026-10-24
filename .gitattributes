@@ -1,0 +1,3 @@
+# Store text with LF line endings; each checkout uses its own system's style.
+* text=auto
+*.png binary

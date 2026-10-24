@@ -1,0 +1,32 @@
+RIDE THE BUS · verify   300 rounds from rounds.db
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  NO EVIDENCE OF BIAS IN 300 ROUNDS                                           │
+│  5 of 5 tests had enough data. Passing cannot certify the game fair.         │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Fresh 52-card deck: consistent with 300 rounds; cards can repeat: rejected (p < 
+0.001).
+                    Rounds with a                            
+Deck model          repeated card  Expected       p  Verdict 
+─────────────────────────────────────────────────────────────
+Fresh 52-card deck              0      0.00    1.00  best fit
+2-deck shoe                     0      5.18   0.010  rejected
+6-deck shoe                     0      8.43  <0.001  rejected
+Cards can repeat                0     10.00  <0.001  rejected
+
+Tests against rules.toml (fresh 52-card deck)                              
+Test                                  Observed  Expected  p (Holm)  Verdict
+───────────────────────────────────────────────────────────────────────────
+Repeated card inside a round                 0      0.00      1.00  pass   
+Rank counts (13 cells)              chi2 10.26     12 df      1.00  pass   
+Suit counts (4 cells)                chi2 2.29      3 df      1.00  pass   
+First card colour                    45.0% red     50.0%      0.47  pass   
+Repeats between consecutive rounds          21     23.36      1.00  pass   
+  Rank most off: 9 at 5.6% (95% CI 4.1% to 7.8%), expected 7.7%                 
+  Suit most off: ♣ at 27.2% (95% CI 23.8% to 30.9%), expected 25.3%             
+  First card red: 45.0% (95% CI 39.3% to 50.8%), expected 50.0%                 
+
+No logged payouts to check against the ladder yet (`busride log` records them).
+These tests can reject a model but never certify the game fair: a game that 
+changed its odds with your streak or stake would pass them.
+
+rules.toml · game test · 2026-10-23 · fresh 52 · ace high · ties lose/lose

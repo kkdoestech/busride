@@ -1,0 +1,24 @@
+RIDE THE BUS · analysis   Ride the Bus
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  PAYOUT LADDER NOT CAPTURED                                                  │
+│  The odds below are exact for your deck and tie rules. With the fair shape,  │
+│  perfect play breaks even at 1.75x / 2.41x / 3.67x / 13.84x. Set the         │
+│  returns of the game you play with `busride init`.                           │
+╰──────────────────────────────────────────────────────────────────────────────╯
+                                                       Break  Step  Plan
+Stage                  Win  Survive    Fair  Offered    even  edge  edge
+────────────────────────────────────────────────────────────────────────
+1 Red or black       50.0%    50.0%   2.00x        —   1.75x     —     —
+2 Higher or lower    72.4%    36.2%   2.76x        —   2.41x     —     —
+3 Inside or outside  65.7%    23.8%   4.21x        —   3.67x     —     —
+4 Suit               26.5%     6.3%  15.86x        —  13.84x     —     —
+Win: chance at that stage, given you got there. Fair = 1/survive, the break-even
+for always playing to that stage. Break even: your ladder scaled so perfect play
+returns exactly 1. Step edge: what letting the pot ride through that stage 
+costs. Plan edge: always playing to that stage, then cashing out.
+
+If cards could repeat: surviving all four would happen 5.60% of the time (your 
+rules: 6.31%). `busride verify` tests which one the game uses.
+No logged payouts to check against the ladder yet (`busride log` records them).
+
+rules.toml · game test · 2026-10-23 · fresh 52 · ace high · ties lose/lose

@@ -1,0 +1,16 @@
+RIDE THE BUS · simulation   strategy: greedy
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  SIMULATED RTP 0.9570  (95% 0.8134 to 1.1006)                                │
+╰──────────────────────────────────────────────────────────────────────────────╯
+                           Cashed out  Survived
+Stage           Lost here    after it   through
+───────────────────────────────────────────────
+1 Red or black      49.4%        0.0%    50.56%
+2 Red or black      25.0%        0.0%    25.60%
+3 Red or black      12.5%        0.0%    13.08%
+4 Red or black       6.8%        0.0%     6.24%
+5 Red or black       2.9%           —     3.30%
+Bankroll  ▅▅▅▄▆▅▆▆▆▅▄▃▄▂▃▂▃▅▄▅▄▅▄▃▃▂▂▁▂▂▃▃▂▂▂▅▄▃▃▃▆▇▇█▇▇▆▅▇▆▄▃▃▂▃▂
+          net -215.00 after 5,000 rounds at stake 1.00
+
+built-in colour-run-5 · fresh 52 · ace high · ties lose/lose · seed 1

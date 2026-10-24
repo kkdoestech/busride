@@ -1,0 +1,12 @@
+╭─ RIDE THE BUS · advisor ──────────────────────────────╮
+│  Stage 1 of 4 · red or black                          │
+│                                                       │
+│   No cards yet: bet on the first card's colour.       │
+│                                                       │
+│  RED          ████████████░░░░░░░░░░░░  50.0%  26/52  │
+│  BLACK        ████████████░░░░░░░░░░░░  50.0%  26/52  │
+│                                                       │
+│  Best guess   RED                                     │
+│  Skip 1.00  vs  play 1.15   →   PLAY                  │
+╰───────────────────────────────────────────────────────╯
+rules.toml · game test · 2026-10-23 · fresh 52 · ace high · ties lose/lose

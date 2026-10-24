@@ -1,0 +1,16 @@
+  6♥   ✓ red wins
+  Coach: every choice was worth the same here.
+  Why: Your stake is in and red and black are equally good: nothing to get wrong
+here.
+  3♠   ✓ lower wins
+  Coach: better was CASH OUT: that move gave up 1.02 per 1 staked, about 10.17 
+chips on average.
+  Why: Cashing out now pays 1.80 for sure. Going on, the best guess is higher: 
+it wins with 32/51 cards (62.7%) and is worth only 1.50 on average, counting the
+best play after.
+  ✓ Cashed out: +23.00 chips
+  Coach: fine: OUTSIDE was worth almost exactly the same.
+  Why: Going on with outside, which wins with 36/50 cards (72.0%), is worth 
+2.304 on average, counting the best play after, against 2.300 for cashing out 
+now.
+Round 1 · cashed out after stage 2 · +13.00 · chips 1,013.00

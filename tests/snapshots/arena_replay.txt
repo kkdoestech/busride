@@ -1,0 +1,53 @@
+RIDE THE BUS · arena replay   demo · deal 2 of 200
+The cards in this deal: A♦ J♣ 7♠ K♥
+Every agent got the same cards; one that stopped early never saw the rest.
+
+optimal · cashed out after stage 3 · got back 320.0 per 100 bet
+Stage  Cards seen  Move      Win chance  Best move  Gave up  Next card
+──────────────────────────────────────────────────────────────────────
+    1  —           red              50%  red            0.0  A♦ ✓     
+    2  A♦          lower            94%  lower          0.0  J♣ ✓     
+    3  A♦ J♣       outside          72%  outside        0.0  7♠ ✓     
+    4  A♦ J♣ 7♠    cash out           —  cash out       0.0  —        
+  stage 1: red: the best guess, worth 96.3 per 100 bet                          
+  stage 2: lower: worth 228.7 per 100 bet, stopping 180.0                       
+  stage 3: outside: worth 230.4 per 100 bet, stopping 230.0                     
+  stage 4: stopping is worth 320.0 per 100 bet, going on 318.4                  
+
+greedy · rode the bus to the end · got back 1200.0 per 100 bet
+Stage  Cards seen  Move     Win chance  Best move  Gave up  Next card
+─────────────────────────────────────────────────────────────────────
+    1  —           red             50%  red            0.0  A♦ ✓     
+    2  A♦          lower           94%  lower          0.0  J♣ ✓     
+    3  A♦ J♣       outside         72%  outside        0.0  7♠ ✓     
+    4  A♦ J♣ 7♠    hearts          27%  cash out       1.6  K♥ ✓     
+
+stop:2 · cashed out after stage 2 · got back 230.0 per 100 bet
+Stage  Cards seen  Move      Win chance  Best move  Gave up  Next card
+──────────────────────────────────────────────────────────────────────
+    1  —           red              50%  red            0.0  A♦ ✓     
+    2  A♦          lower            94%  lower          0.0  J♣ ✓     
+    3  A♦ J♣       cash out           —  outside        0.4  —        
+
+random · lost at stage 2 · got back 0.0 per 100 bet
+Stage  Cards seen  Move    Win chance  Best move  Gave up  Next card
+────────────────────────────────────────────────────────────────────
+    1  —           red            50%  red            0.0  A♦ ✓     
+    2  A♦          higher          0%  lower        228.7  J♣ ✗     
+
+hunch · rode the bus to the end · got back 1200.0 per 100 bet
+Stage  Cards seen  Move     Win chance  Best move  Gave up  Next card
+─────────────────────────────────────────────────────────────────────
+    1  —           red             50%  red            0.0  A♦ ✓     
+    2  A♦          lower           94%  lower          0.0  J♣ ✓     
+    3  A♦ J♣       outside         72%  outside        0.0  7♠ ✓     
+    4  A♦ J♣ 7♠    hearts          27%  cash out       1.6  K♥ ✓     
+  stage 1: said its chance was 60%; a hunch                                     
+  stage 2: said its chance was 60%; a hunch                                     
+  stage 3: said its chance was 60%; a hunch; rejected: 'maybe' is not a move    
+  here: choose one of inside, outside, cash                                     
+  stage 4: said its chance was 60%; a hunch                                     
+
+  Win chance is exact, from the cards left. Gave up is per 100 bet: the best    
+  move's value minus the value of the move made (0 = the best move).            
+Next deal: busride arena replay demo --deal 3

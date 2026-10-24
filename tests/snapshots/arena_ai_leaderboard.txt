@@ -1,0 +1,30 @@
+RIDE THE BUS · arena   ai
+Ride the Bus · 20 duplicate deals · seed 7 · payouts 1.80 2.30 3.20 12.00
+Perfect play gets back 96.3 of every 100 bet, on average. Closest to it here: 
+greedy, giving up 19.5.
+
+                           Gives  Best      Odds                    vs       
+#  Agent                      up  move     error  Return       optimal   Cost
+─────────────────────────────────────────────────────────────────────────────
+1  optimal                   0.0  100%     exact    86.0             —      —
+2  greedy                   19.5   37%     exact   120.0  +34.0 ±131.9      —
+3  claude:claude-opus-5-5   73.5    8%  26.6 pts     0.0   -86.0 ±50.4  $0.61
+
+  Gives up: chips lost to imperfect play per 100 bet, on average. Luck doesn't  
+  count: 0 is perfect.                                                          
+  Best move: how often it made the best move, counting only choices that        
+  mattered.                                                                     
+  Odds error: how far the win chances it stated were from the exact ones.       
+  Return: what it actually got back per 100 bet on these deals, luck included.  
+  vs optimal: the gap to perfect play on the same deals, give or take (95%).    
+  Cost: what its AI model calls cost, in US dollars.                            
+
+Habits (counting only moves worse by more than 2%):
+  greedy: kept going 8 times when cashing out was better.                       
+  claude:claude-opus-5-5: kept going 8 times when cashing out was better.       
+
+AI models:
+  claude:claude-opus-5-5: 2.50 s and 900 output tokens per decision; 85% of its 
+  prompts came from the cache.                                                  
+
+built-in ride-the-bus · fresh 52 · ace high · ties lose/lose

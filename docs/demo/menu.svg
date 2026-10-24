@@ -1,0 +1,141 @@
+<svg class="rich-terminal" viewBox="0 0 994 562.4" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-1851711617-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-1851711617-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-1851711617-r1 { fill: #8b949e }
+.terminal-1851711617-r2 { fill: #c5c8c6 }
+.terminal-1851711617-r3 { fill: #c5c8c6;font-weight: bold }
+.terminal-1851711617-r4 { fill: #7dd3fc;font-weight: bold }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-1851711617-clip-terminal">
+      <rect x="0" y="0" width="975.0" height="511.4" />
+    </clipPath>
+    <clipPath id="terminal-1851711617-line-0">
+    <rect x="0" y="1.5" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-1">
+    <rect x="0" y="25.9" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-2">
+    <rect x="0" y="50.3" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-3">
+    <rect x="0" y="74.7" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-4">
+    <rect x="0" y="99.1" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-5">
+    <rect x="0" y="123.5" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-6">
+    <rect x="0" y="147.9" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-7">
+    <rect x="0" y="172.3" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-8">
+    <rect x="0" y="196.7" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-9">
+    <rect x="0" y="221.1" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-10">
+    <rect x="0" y="245.5" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-11">
+    <rect x="0" y="269.9" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-12">
+    <rect x="0" y="294.3" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-13">
+    <rect x="0" y="318.7" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-14">
+    <rect x="0" y="343.1" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-15">
+    <rect x="0" y="367.5" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-16">
+    <rect x="0" y="391.9" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-17">
+    <rect x="0" y="416.3" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-18">
+    <rect x="0" y="440.7" width="976" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1851711617-line-19">
+    <rect x="0" y="465.1" width="976" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="992" height="560.4" rx="8"/><text class="terminal-1851711617-title" fill="#c5c8c6" text-anchor="middle" x="496" y="27">busride</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-1851711617-clip-terminal)">
+    
+    <g class="terminal-1851711617-matrix">
+    <text class="terminal-1851711617-r1" x="0" y="20" textLength="109.8" clip-path="url(#terminal-1851711617-line-0)">$&#160;busride</text><text class="terminal-1851711617-r2" x="976" y="20" textLength="12.2" clip-path="url(#terminal-1851711617-line-0)">
+</text><text class="terminal-1851711617-r2" x="0" y="44.4" textLength="24.4" clip-path="url(#terminal-1851711617-line-1)">╭─</text><text class="terminal-1851711617-r2" x="24.4" y="44.4" textLength="732" clip-path="url(#terminal-1851711617-line-1)">&#160;busride&#160;·&#160;Ride&#160;the&#160;Bus,&#160;solved&#160;────────────────────────────</text><text class="terminal-1851711617-r2" x="756.4" y="44.4" textLength="24.4" clip-path="url(#terminal-1851711617-line-1)">─╮</text><text class="terminal-1851711617-r2" x="976" y="44.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-1)">
+</text><text class="terminal-1851711617-r2" x="0" y="68.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-2)">│</text><text class="terminal-1851711617-r3" x="36.6" y="68.8" textLength="658.8" clip-path="url(#terminal-1851711617-line-2)">Your&#160;game:&#160;Ride&#160;the&#160;Bus&#160;·&#160;payouts&#160;1.80&#160;2.30&#160;3.20&#160;12.00</text><text class="terminal-1851711617-r2" x="768.6" y="68.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-2)">│</text><text class="terminal-1851711617-r2" x="976" y="68.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-2)">
+</text><text class="terminal-1851711617-r2" x="0" y="93.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-3)">│</text><text class="terminal-1851711617-r1" x="36.6" y="93.2" textLength="707.6" clip-path="url(#terminal-1851711617-line-3)">Even&#160;playing&#160;perfectly,&#160;you&#160;get&#160;back&#160;about&#160;96&#160;of&#160;every&#160;100</text><text class="terminal-1851711617-r2" x="768.6" y="93.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-3)">│</text><text class="terminal-1851711617-r2" x="976" y="93.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-3)">
+</text><text class="terminal-1851711617-r2" x="0" y="117.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-4)">│</text><text class="terminal-1851711617-r1" x="36.6" y="117.6" textLength="97.6" clip-path="url(#terminal-1851711617-line-4)">you&#160;bet.</text><text class="terminal-1851711617-r2" x="768.6" y="117.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-4)">│</text><text class="terminal-1851711617-r2" x="976" y="117.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-4)">
+</text><text class="terminal-1851711617-r2" x="0" y="142" textLength="12.2" clip-path="url(#terminal-1851711617-line-5)">│</text><text class="terminal-1851711617-r2" x="768.6" y="142" textLength="12.2" clip-path="url(#terminal-1851711617-line-5)">│</text><text class="terminal-1851711617-r2" x="976" y="142" textLength="12.2" clip-path="url(#terminal-1851711617-line-5)">
+</text><text class="terminal-1851711617-r2" x="0" y="166.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-6)">│</text><text class="terminal-1851711617-r4" x="36.6" y="166.4" textLength="24.4" clip-path="url(#terminal-1851711617-line-6)">&#160;1</text><text class="terminal-1851711617-r2" x="85.4" y="166.4" textLength="622.2" clip-path="url(#terminal-1851711617-line-6)">Tutorial&#160;(start&#160;here!)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="166.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-6)">│</text><text class="terminal-1851711617-r2" x="976" y="166.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-6)">
+</text><text class="terminal-1851711617-r2" x="0" y="190.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-7)">│</text><text class="terminal-1851711617-r4" x="36.6" y="190.8" textLength="24.4" clip-path="url(#terminal-1851711617-line-7)">&#160;2</text><text class="terminal-1851711617-r2" x="85.4" y="190.8" textLength="622.2" clip-path="url(#terminal-1851711617-line-7)">Play&#160;a&#160;few&#160;rounds,&#160;with&#160;a&#160;coach&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="190.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-7)">│</text><text class="terminal-1851711617-r2" x="976" y="190.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-7)">
+</text><text class="terminal-1851711617-r2" x="0" y="215.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-8)">│</text><text class="terminal-1851711617-r4" x="36.6" y="215.2" textLength="24.4" clip-path="url(#terminal-1851711617-line-8)">&#160;3</text><text class="terminal-1851711617-r2" x="85.4" y="215.2" textLength="622.2" clip-path="url(#terminal-1851711617-line-8)">I&#x27;m&#160;playing&#160;now:&#160;what&#160;should&#160;I&#160;do?&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="215.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-8)">│</text><text class="terminal-1851711617-r2" x="976" y="215.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-8)">
+</text><text class="terminal-1851711617-r2" x="0" y="239.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-9)">│</text><text class="terminal-1851711617-r4" x="36.6" y="239.6" textLength="24.4" clip-path="url(#terminal-1851711617-line-9)">&#160;4</text><text class="terminal-1851711617-r2" x="85.4" y="239.6" textLength="622.2" clip-path="url(#terminal-1851711617-line-9)">Show&#160;the&#160;cheat&#160;sheet&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="239.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-9)">│</text><text class="terminal-1851711617-r2" x="976" y="239.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-9)">
+</text><text class="terminal-1851711617-r2" x="0" y="264" textLength="12.2" clip-path="url(#terminal-1851711617-line-10)">│</text><text class="terminal-1851711617-r4" x="36.6" y="264" textLength="24.4" clip-path="url(#terminal-1851711617-line-10)">&#160;5</text><text class="terminal-1851711617-r2" x="85.4" y="264" textLength="622.2" clip-path="url(#terminal-1851711617-line-10)">How&#160;fair&#160;is&#160;this&#160;game?&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="264" textLength="12.2" clip-path="url(#terminal-1851711617-line-10)">│</text><text class="terminal-1851711617-r2" x="976" y="264" textLength="12.2" clip-path="url(#terminal-1851711617-line-10)">
+</text><text class="terminal-1851711617-r2" x="0" y="288.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-11)">│</text><text class="terminal-1851711617-r4" x="36.6" y="288.4" textLength="24.4" clip-path="url(#terminal-1851711617-line-11)">&#160;6</text><text class="terminal-1851711617-r2" x="85.4" y="288.4" textLength="622.2" clip-path="url(#terminal-1851711617-line-11)">Arena:&#160;watch&#160;bots&#160;play,&#160;graded&#160;against&#160;perfect&#160;play</text><text class="terminal-1851711617-r2" x="768.6" y="288.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-11)">│</text><text class="terminal-1851711617-r2" x="976" y="288.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-11)">
+</text><text class="terminal-1851711617-r2" x="0" y="312.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-12)">│</text><text class="terminal-1851711617-r4" x="36.6" y="312.8" textLength="24.4" clip-path="url(#terminal-1851711617-line-12)">&#160;7</text><text class="terminal-1851711617-r2" x="85.4" y="312.8" textLength="622.2" clip-path="url(#terminal-1851711617-line-12)">Train&#160;a&#160;learning&#160;AI&#160;and&#160;watch&#160;it&#160;improve&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="312.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-12)">│</text><text class="terminal-1851711617-r2" x="976" y="312.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-12)">
+</text><text class="terminal-1851711617-r2" x="0" y="337.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-13)">│</text><text class="terminal-1851711617-r4" x="36.6" y="337.2" textLength="24.4" clip-path="url(#terminal-1851711617-line-13)">&#160;8</text><text class="terminal-1851711617-r2" x="85.4" y="337.2" textLength="622.2" clip-path="url(#terminal-1851711617-line-13)">Choose&#160;a&#160;game&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="337.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-13)">│</text><text class="terminal-1851711617-r2" x="976" y="337.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-13)">
+</text><text class="terminal-1851711617-r2" x="0" y="361.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-14)">│</text><text class="terminal-1851711617-r4" x="36.6" y="361.6" textLength="24.4" clip-path="url(#terminal-1851711617-line-14)">&#160;9</text><text class="terminal-1851711617-r2" x="85.4" y="361.6" textLength="622.2" clip-path="url(#terminal-1851711617-line-14)">Settings:&#160;payouts,&#160;chips,&#160;coach,&#160;AI&#160;model&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="361.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-14)">│</text><text class="terminal-1851711617-r2" x="976" y="361.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-14)">
+</text><text class="terminal-1851711617-r2" x="0" y="386" textLength="12.2" clip-path="url(#terminal-1851711617-line-15)">│</text><text class="terminal-1851711617-r4" x="36.6" y="386" textLength="24.4" clip-path="url(#terminal-1851711617-line-15)">10</text><text class="terminal-1851711617-r2" x="85.4" y="386" textLength="622.2" clip-path="url(#terminal-1851711617-line-15)">Pretend&#160;rounds:&#160;double-check&#160;the&#160;maths&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="386" textLength="12.2" clip-path="url(#terminal-1851711617-line-15)">│</text><text class="terminal-1851711617-r2" x="976" y="386" textLength="12.2" clip-path="url(#terminal-1851711617-line-15)">
+</text><text class="terminal-1851711617-r2" x="0" y="410.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-16)">│</text><text class="terminal-1851711617-r4" x="36.6" y="410.4" textLength="24.4" clip-path="url(#terminal-1851711617-line-16)">11</text><text class="terminal-1851711617-r2" x="85.4" y="410.4" textLength="622.2" clip-path="url(#terminal-1851711617-line-16)">Record&#160;real&#160;rounds&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="410.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-16)">│</text><text class="terminal-1851711617-r2" x="976" y="410.4" textLength="12.2" clip-path="url(#terminal-1851711617-line-16)">
+</text><text class="terminal-1851711617-r2" x="0" y="434.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-17)">│</text><text class="terminal-1851711617-r4" x="36.6" y="434.8" textLength="24.4" clip-path="url(#terminal-1851711617-line-17)">12</text><text class="terminal-1851711617-r2" x="85.4" y="434.8" textLength="622.2" clip-path="url(#terminal-1851711617-line-17)">Is&#160;the&#160;dealing&#160;fair?&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="434.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-17)">│</text><text class="terminal-1851711617-r2" x="976" y="434.8" textLength="12.2" clip-path="url(#terminal-1851711617-line-17)">
+</text><text class="terminal-1851711617-r2" x="0" y="459.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-18)">│</text><text class="terminal-1851711617-r4" x="36.6" y="459.2" textLength="24.4" clip-path="url(#terminal-1851711617-line-18)">13</text><text class="terminal-1851711617-r2" x="85.4" y="459.2" textLength="622.2" clip-path="url(#terminal-1851711617-line-18)">Check&#160;my&#160;setup&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="459.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-18)">│</text><text class="terminal-1851711617-r2" x="976" y="459.2" textLength="12.2" clip-path="url(#terminal-1851711617-line-18)">
+</text><text class="terminal-1851711617-r2" x="0" y="483.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-19)">│</text><text class="terminal-1851711617-r4" x="36.6" y="483.6" textLength="24.4" clip-path="url(#terminal-1851711617-line-19)">&#160;q</text><text class="terminal-1851711617-r1" x="85.4" y="483.6" textLength="622.2" clip-path="url(#terminal-1851711617-line-19)">Quit&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1851711617-r2" x="768.6" y="483.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-19)">│</text><text class="terminal-1851711617-r2" x="976" y="483.6" textLength="12.2" clip-path="url(#terminal-1851711617-line-19)">
+</text><text class="terminal-1851711617-r2" x="0" y="508" textLength="780.8" clip-path="url(#terminal-1851711617-line-20)">╰──────────────────────────────────────────────────────────────╯</text><text class="terminal-1851711617-r2" x="976" y="508" textLength="12.2" clip-path="url(#terminal-1851711617-line-20)">
+</text>
+    </g>
+    </g>
+</svg>

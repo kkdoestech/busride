@@ -1,0 +1,46 @@
+# busride game rules. Set these to match the game you play (docs/SPEC.md, section 5),
+# then run `busride odds`.
+
+[game]
+name = "In-Between, walk away allowed"
+game_version = "example"
+captured_on = ""
+description = "Two cards are shown; you may walk away, or bet the third lands between them (it pays 2x). Walking away is allowed, so perfect play never loses on average: it bets only when the gap is wide."
+# true: the first guess must be played; false: you may walk away before it
+forced_first_bet = false
+# Stake limits; 0 = not recorded.
+min_stake = 0
+max_stake = 0
+# What a draw that runs out of time does: unknown | lose | cash_out | random_guess
+timeout = "unknown"
+
+[deck]
+# fresh_52 (new deck every round) | with_replacement (cards can repeat) | shoe
+model = "fresh_52"
+# Only used by "shoe".
+decks = 1
+# high | low | either (either = whichever value helps you)
+ace = "high"
+
+[ties]
+# lose | push | win. A push ends the round and pays your current cash-out value.
+higher_lower = "lose"
+# The same, for a card equal to either end of the inside/outside range.
+range_edge = "lose"
+
+# The stages, in order: colour | higher_lower | inside_outside | suit | reveal.
+# higher_lower compares with the previous card unless `against = N`; inside_outside
+# with the two previous cards unless `between = [A, B]` (stage numbers).
+[[stage]]
+type = "reveal"
+
+[[stage]]
+type = "reveal"
+
+[[stage]]
+type = "inside_outside"
+
+[payout]
+# Total payout per 1 staked, stake included, for cashing out after each guessing
+# stage (reveal stages don't count).
+ladder = [2.0]

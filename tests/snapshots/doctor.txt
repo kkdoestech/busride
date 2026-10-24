@@ -1,0 +1,12 @@
+RIDE THE BUS · doctor   checking your setup
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  WORKS, WITH NOTES                                                           │
+│  Each line below says what was checked and what to do.                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+   Check              Result     
+─────────────────────────────────
+✓  Python             3.13       
+!  Card symbols       add --ascii
+·  ANTHROPIC_API_KEY  not set    
+
+Settings folder: C:/Users/you/AppData/Local/busride

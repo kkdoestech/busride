@@ -1,0 +1,26 @@
+RIDE THE BUS · train   Ride the Bus
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  CLOSE TO PERFECT PLAY                                                       │
+│  After 100,000 practice rounds it gives up 0.2 chips per 100 bet against     │
+│  perfect play: it gets back 96.1 of every 100 (perfect play: 96.3).          │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Method               Q-learning: learns what each move is worth if it played    
+                     perfectly from then on                                     
+Practice             100,000 rounds in 350 ms (seed 1)                          
+Situations met       322 of 329                                                 
+Gives up, over time  ██▄▄▃▃▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁                                      
+
+  After rounds   Its moves are worth   Gives up                                 
+  ─────────────────────────────────────────────                                 
+             0                  90.0        6.3                                 
+        10,000                  93.9        2.4                                 
+        25,000                  94.8        1.5                                 
+        50,000                  95.9        0.4                                 
+        75,000                  96.1        0.2                                 
+       100,000                  96.1        0.2                                 
+
+Saved as rl:q-ride-the-bus: C:/Users/you/AppData/Local/busride/agents
+Play it against the others in the arena:
+  busride arena run --agents optimal,rl:q-ride-the-bus,greedy
+
+built-in ride-the-bus · fresh 52 · ace high · ties lose/lose

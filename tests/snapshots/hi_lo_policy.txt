@@ -1,0 +1,42 @@
+RIDE THE BUS · policy   Hi-Lo 5
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  HOUSE EDGE 3.8%                                                             │
+│  Play by this sheet and you get back about 96 of every 100 you bet. No       │
+│  strategy does better.                                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Stage 1 · higher or lower   your stake is in: no cash-out yet
+  first card    2    3    4    5    6    7    8    9   10    J    Q    K    A
+  play          H    H    H    H    H    H    H    L    L    L    L    L    L
+  survive     94%  86%  78%  71%  63%  55%  47%  55%  63%  71%  78%  86%  94%
+  continue   1.26 1.14 1.03 0.93 0.83 0.74 0.65 0.74 0.83 0.93 1.03 1.14 1.26
+
+Stage 2 · higher or lower   cash out pays 1.20x
+  previous card    2    3    4    5    6    7    8    9   10    J    Q    K    A
+  play             H    H    H    H    $    $   $*    $    $    L    L    L    L
+  survive        94%  86%  78%  71%  63%  55%  48%  55%  63%  71%  78%  86%  94%
+  continue      1.70 1.53 1.38 1.25 1.12 0.99 0.88 0.99 1.12 1.25 1.38 1.53 1.69
+
+Stage 3 · higher or lower   cash out pays 1.60x
+  previous card    2    3    4    5    6    7    8    9   10    J    Q    K    A
+  play             H    H    H    H    $    $   $*    $    $    L    L    L    L
+  survive        94%  86%  78%  71%  63%  55%  48%  55%  63%  71%  78%  86%  94%
+  continue      2.29 2.07 1.87 1.69 1.52 1.34 1.18 1.34 1.52 1.69 1.87 2.07 2.29
+
+Stage 4 · higher or lower   cash out pays 2.20x
+  previous card    2    3    4    5    6    7    8    9   10    J    Q    K    A
+  play             H    H    H    H    $    $   $*    $    $    L    L    L    L
+  survive        94%  86%  78%  71%  63%  55%  48%  55%  63%  71%  78%  86%  94%
+  continue      3.05 2.76 2.50 2.26 2.03 1.79 1.59 1.79 2.03 2.26 2.50 2.76 3.05
+
+Stage 5 · higher or lower   cash out pays 3.00x
+  previous card    2    3    4    5    6    7    8    9   10    J    Q    K    A
+  play             H    H    H   $*    $    $   $*    $    $   $*    L    L    L
+  survive        94%  86%  78%  71%  63%  55%  48%  55%  63%  71%  78%  86%  94%
+  continue      3.95 3.62 3.29 2.96 2.63 2.30 2.01 2.31 2.64 2.97 3.30 3.62 3.95
+
+  * the best play also depends on earlier cards; shown: the most likely case    
+
+  H higher  L lower  I inside  O outside  $ cash out  · can't happen            
+  green going on beats cashing by >2%  amber within 2%  red going on loses      
+
+built-in hi-lo-5 · fresh 52 · ace high · ties lose/lose

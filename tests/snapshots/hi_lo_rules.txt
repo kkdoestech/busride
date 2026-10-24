@@ -1,0 +1,11 @@
+╭─ RIDE THE BUS · rules ───────────────────────────────────────────────╮
+│  Game               Hi-Lo 5                                          │
+│  Stages             card shown → higher or lower ×5                  │
+│  Deck               fresh_52                                         │
+│  Ace                high                                             │
+│  Tie, higher/lower  lose                                             │
+│  Tie, range edge    lose                                             │
+│  Ladder             1.20x · 1.60x · 2.20x · 3.00x · 4.20x            │
+╰──────────────────────────────────────────────────────────────────────╯
+From built-in hi-lo-5.
+✓ No odd values spotted.

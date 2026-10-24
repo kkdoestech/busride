@@ -1,0 +1,11 @@
+╭─ RIDE THE BUS · arena ────────────────────────────────╮
+│  Stage 3 of 4 · inside or outside                     │
+│                                                       │
+│   ╭────╮ ╭────╮                                       │
+│   │ 9  │ │ K  │                                       │
+│   │ ♥  │ │ ♠  │                                       │
+│   ╰────╯ ╰────╯                                       │
+│                                                       │
+│  Cashing out now pays 2.30x your bet.                 │
+╰───────────────────────────────────────────────────────╯
+ [1] inside   [2] outside   [$] cash out   [q] stop

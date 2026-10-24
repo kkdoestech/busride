@@ -1,0 +1,12 @@
+RIDE THE BUS · arena runs   3 saved
+Name                     Game          Deals  Agents            Started         
+────────────────────────────────────────────────────────────────────────────────
+ride-the-bus-seed7-2000  Ride the Bus  2,000  optimal, greedy,  2026-10-24 09:15
+                                              stop:2, random                    
+hi-lo                    Hi-Lo 5          20  optimal, human    2026-10-23 20:01
+broken                                        broken.jsonl is                   
+                                              not an arena run                  
+
+  See one: busride arena leaderboard NAME. Add agents to one: busride arena run 
+  --name NAME --agents ...                                                      
+Saved in C:/Users/you/AppData/Local/busride/runs

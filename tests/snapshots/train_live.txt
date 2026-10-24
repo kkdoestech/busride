@@ -1,0 +1,7 @@
+╭─ RIDE THE BUS · train ───────────────────────────────────────────────╮
+│  Rounds played        █████████████░░░░░░░░░░░  55,000 of 100,000    │
+│  Its moves are worth  95.9 per 100 bet (perfect play: 96.3)          │
+│  It gives up          0.4 per 100 bet                                │
+│  Gives up, over time  ██▃▃▃▂▂▁▁▁▁▁                                   │
+│  Exploring            7% of its moves are random tries               │
+╰──────────────────────────────────────────────────────────────────────╯
