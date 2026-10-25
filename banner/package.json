@@ -1,0 +1,14 @@
+{
+  "name": "busride-banner",
+  "private": true,
+  "type": "module",
+  "description": "The README banner: a three.js scene, recorded to docs/banner.webp",
+  "scripts": {
+    "record": "node record.mjs --record",
+    "stills": "node record.mjs --stills",
+    "serve": "node record.mjs --serve"
+  },
+  "devDependencies": {
+    "playwright": "1.64.1"
+  }
+}

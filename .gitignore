@@ -19,3 +19,7 @@ build/
 
 # your editor settings
 *.code-workspace
+
+# banner tooling (see banner/README.md)
+banner/node_modules/
+banner/.frames/

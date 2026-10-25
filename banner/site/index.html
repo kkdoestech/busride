@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>busride · Ride the Bus, solved</title>
+  <meta name="description" content="A pulsar eats a 52-card deck and deals Ride the Bus with its exact odds. busride works out perfect play exactly: learn with a coach, benchmark AI models, train a learning AI.">
+  <meta property="og:title" content="busride · Ride the Bus, solved">
+  <meta property="og:description" content="Every decision has a right answer. Learn with a coach, benchmark AI models, train a learning AI.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/kkdoestech/busride/main/docs/banner.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link id="fonts" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Inter:wght@500;600;700&family=JetBrains+Mono:wght@600&display=block">
+  <style>
+    :root {
+      --bg: #07070c;
+      --ink: #e9dfd1;
+      --muted: #9d8f80;
+      --gold: #f2c45c;
+      --chip: rgba(255, 255, 255, 0.06);
+      --line: rgba(242, 196, 92, 0.25);
+    }
+    html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); overflow: hidden; }
+    body { font: 500 14px/1.4 Inter, system-ui, sans-serif; }
+    #stage { position: fixed; inset: 0; cursor: pointer; }
+    #stage canvas { display: block; }
+    .corner {
+      position: fixed; top: 16px; right: 16px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    .corner a, .corner code {
+      padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--chip);
+      color: var(--ink); text-decoration: none; backdrop-filter: blur(4px);
+    }
+    .corner a:hover { border-color: var(--gold); color: var(--gold); }
+    .corner code { font: 500 13px ui-monospace, Consolas, monospace; color: var(--gold); }
+    .hint { position: fixed; left: 16px; bottom: 12px; margin: 0; color: var(--muted); font-size: 12px; }
+    body.record #stage { width: 900px; height: 300px; inset: auto; top: 0; left: 0; cursor: default; }
+    body.record .corner, body.record .hint { display: none; }
+  </style>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+  <div id="stage" role="img" aria-label="A panda-faced official in a red hanfu tosses a 52-card deck, which opens like the pages of a book; a red-and-blue pulsar sucks every card in and explodes, and the four Ride the Bus calls land in their slots with their exact odds: 50.0%, 36.2%, 23.8% and 6.3%, under a burning, glitching BUSRIDE title."></div>
+  <nav class="corner">
+    <a href="https://github.com/kkdoestech/busride">busride on GitHub ↗</a>
+    <code>uv run busride</code>
+  </nav>
+  <p class="hint">Click to shuffle · Space to pause</p>
+  <script type="module" src="main.js"></script>
+</body>
+</html>

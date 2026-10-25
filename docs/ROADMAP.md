@@ -14,6 +14,7 @@ Each milestone ends with every test passing and something you can run. Details a
 | M6 | **LLM agents**: Claude and OpenAI-compatible (Ollama, OpenAI, OpenRouter, Groq, LM Studio); cost guard; LLM coach phrasing; `doctor` checks keys and Ollama | Tests with mocked transports; live smoke tests skipped without keys | done |
 | M7 | **Reinforcement learning**: tabular Q-learning and SARSA, an exact-evaluation learning curve, saved agents in the arena, an optional Gymnasium env | Under 1% regret on Ride the Bus within a fixed episode budget | done |
 | M8 | **GitHub polish**: beginner README, demo SVGs, example leaderboard, GUIDE rewrite, MIT licence, CONTRIBUTING, CI on 3 operating systems, examples | Fresh clone to the home menu in 2 commands | done |
+| M9 | **README banner**: a three.js scene (`banner/`) with the kkdoestech avatar, a pulsar that eats the deck and a burning, glitching title, recorded to a 6 s looping GIF at the top of the README and live on GitHub Pages | The banner loops seamlessly (frame 6 s = frame 0), stays under 6 MB, and shows the exact odds 50.0 · 36.2 · 23.8 · 6.3% | done |
 
 ## Ideas for later (not in v0.2)
 
