@@ -1,8 +1,7 @@
 # The README banner
 
-`docs/banner.gif` at the top of the README is a three.js scene, recorded frame by frame. The same
-scene runs live at <https://kkdoestech.github.io/busride/> (deployed from `site/` by
-`.github/workflows/pages.yml`).
+`docs/banner.gif` at the top of the README is a three.js scene (`site/`), recorded frame by
+frame.
 
 ## Rebuild it
 

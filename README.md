@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://kkdoestech.github.io/busride/">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="docs/banner.png">
-      <img src="docs/banner.gif" width="100%" alt="A panda-faced official in a red hanfu tosses a 52-card deck, which opens like the pages of a book; a red-and-blue pulsar sucks every card in and explodes, and the four Ride the Bus calls land in their slots with their exact odds: 50.0%, 36.2%, 23.8% and 6.3%, under a burning, glitching BUSRIDE title">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="docs/banner.png">
+    <img src="docs/banner.gif" width="100%" alt="A panda-faced official in a red hanfu tosses a 52-card deck, which opens like the pages of a book; a red-and-blue pulsar sucks every card in and explodes, and the four Ride the Bus calls land in their slots with their exact odds: 50.0%, 36.2%, 23.8% and 6.3%, under a burning, glitching BUSRIDE title">
+  </picture>
 </p>
 
 # busride
